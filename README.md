@@ -2,7 +2,7 @@
 
 用于卸载百度网盘捆绑的“智能看图”
 
-# 执行删除操作的位置：
+## 执行删除操作的位置：
 ### 文件：
 
 %APPDATA%\baidu\BaiduNetdisk\module\ImageViewer
