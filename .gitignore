@@ -1,0 +1,48 @@
+# Visual Studio workspace and user state
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output directories
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+BaiduImgViewerUnins/Debug/
+BaiduImgViewerUnins/Release/
+BaiduImgViewerUnins/x64/
+BaiduImgViewerUnins/x86/
+
+# C/C++ compiler and linker output
+*.obj
+*.o
+*.pch
+*.pdb
+*.ipdb
+*.iobj
+*.ilk
+*.idb
+*.tlog
+*.lastbuildstate
+*.exp
+*.lib
+*.res
+*.manifest
+*.exe
+*.dll
+
+# Generated runtime logs
+Unins-*.log
+
+# Local verification, patches, and backups
+artifacts/
+
+# Temporary files
+*.tmp
+*.bak
+*.orig
+*~
